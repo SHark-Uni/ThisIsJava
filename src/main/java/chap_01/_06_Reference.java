@@ -1,3 +1,5 @@
+package chap_01;
+
 public class _06_Reference {
     public static void main(String[] args) {
         // String,Array는 참조값이다.

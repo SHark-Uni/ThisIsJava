@@ -168,6 +168,6 @@ gradle-app.setting
 *.hprof
 
 ### Git
-.gitigonre
+.gitignore
 
 # End of https://www.toptal.com/developers/gitignore/api/java,gradle,intellij
