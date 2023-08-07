@@ -1,0 +1,44 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÆÆÎøÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ßÎıÿÿÿÿ
+k	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞàÒÿÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œŒÖ—
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡©Âòøÿÿÿÿ
+S
+java:S1854/"6Remove this useless assignment to local variable "t2".(‘Ä8Â úıš1
+S
+java:S1854."6Remove this useless assignment to local variable "t1".(¯îñè8úùıš1
+W
+java:S1854+"5Remove this useless assignment to local variable "b".(åâ¬÷úÿÿÿÿ8úùıš1
+R
+java:S1854*"5Remove this useless assignment to local variable "a".(óØµ8Ã úıš1
+S
+java:S1854"8Remove this useless assignment to local variable "mean".(ë´àİúÿÿÿÿ
+O
+java:S1854"9Remove this useless assignment to local variable "grade".(“¬Õ
+P
+java:S1854":Remove this useless assignment to local variable "review".(ªŞ˜Í
+A
+java:S1481"&Remove this unused "T" local variable.(öÆÆÎøÿÿÿÿ
+A
+java:S1481"+Remove this unused "review" local variable.(ªŞ˜Í
+@
+java:S1481"*Remove this unused "grade" local variable.(“¬Õ
+D
+java:S1481")Remove this unused "mean" local variable.(ë´àİúÿÿÿÿ
+F
+java:S1481"+Remove this unused "IsFail" local variable.(•ßÎıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡ù£ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(âÛ–‹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×¸Û
+S	java:S106"9Replace this use of System.out or System.err by a logger.(–Ú¢Îüÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ìäÉá
+S	java:S106("9Replace this use of System.out or System.err by a logger.(¼Óš…ùÿÿÿÿ
+C
+java:S1481*"&Remove this unused "a" local variable.(óØµ8€Ÿùıš1
+H
+java:S1481+"&Remove this unused "b" local variable.(åâ¬÷úÿÿÿÿ8€Ÿùıš1
+D
+java:S1481."'Remove this unused "t1" local variable.(¯îñè8Ç úıš1
+D
+java:S1481/"'Remove this unused "t2" local variable.(‘Ä8È úıš1
